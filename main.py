@@ -2,7 +2,7 @@
 
 
 def main():
-    print("Hello from your new Python project!")
+    print("Test 2")
 
 
 if __name__ == "__main__":
